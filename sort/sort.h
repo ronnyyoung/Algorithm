@@ -5,5 +5,7 @@
 #include "insert_sort.h"
 #include "shell_sort.h"
 #include "merge_sort.h"
+#include "heap_sort.h"
+#include "quick_sort.h"
 
 #endif // ALGORITHM_SORT_H_
