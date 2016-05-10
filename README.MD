@@ -16,3 +16,7 @@
 - [Bucket Sorting]()
 - [Radix Sorting]()
 
+
+## Hash Table
+
+- [Chat Man](hash/chatman.md)
