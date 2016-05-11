@@ -5,6 +5,8 @@
 
 ## Sorting
 
+### Fundation Algorithms
+
 - [Bubble Sorting](sort/bubble_sort.h)
 - [Select Sorting]()
 - [Insert Sorting](sort/insert_sort.h)
@@ -15,6 +17,11 @@
 - [Count Sorting]()
 - [Bucket Sorting]()
 - [Radix Sorting]()
+
+
+### Exercise
+
+- [Insert Or Merge](sort/insert_or_merge.md)
 
 
 ## Hash Table
